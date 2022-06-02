@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 942H-2C-5DS
+D 942 Series RelayFEATURES  UL, TUV & CQC safety approval.  Standard type & High sensitivity type available.  UL Class F (155) coil insulation type available.  TV Rated (TV-3, TV-5 or TV-8) available.  Heavy current up to 20Amps.  Insulation distance: 8mm.  Dielectric strength: 5,000 VAC.  High sensitivity in small package.  Nominal power 540mW720mW.  Operating power 300mW410mW
+K
+F http://akizukidenshi.com/download/ds/hsinda/942Series_Relay.pdf
+$ENDCMP
+#
+#End Doc Library

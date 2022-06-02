@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 942H-2C-5DS
+#/1737054/477078/2.49/8/4/Relay or Contactor
+DEF 942H-2C-5DS K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "942H-2C-5DS" 1150 200 50 H V L CNN
+F2 "942H2C5DS" 1150 100 50 H I L CNN
+F3 "http://akizukidenshi.com/download/ds/hsinda/942Series_Relay.pdf" 1150 0 50 H I L CNN
+F4 "942 Series RelayFEATURES  UL, TUV & CQC safety approval.  Standard type & High sensitivity type available.  UL Class F (155) coil insulation type available.  TV Rated (TV-3, TV-5 or TV-8) available.  Heavy current up to 20Amps.  Insulation distance: 8mm.  Dielectric strength: 5,000 VAC.  High sensitivity in small package.  Nominal power 540mW720mW.  Operating power 300mW410mW" 1150 -100 50 H I L CNN "Description"
+F5 "25.6" 1150 -200 50 H I L CNN "Height"
+F6 "" 1150 -300 50 H I L CNN "RS Part Number"
+F7 "" 1150 -400 50 H I L CNN "RS Price/Stock"
+F8 "HSINDA" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "942H-2C-5DS" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COIL_1 1 0 0 200 R 50 50 0 0 P
+X NC_1 2 0 -100 200 R 50 50 0 0 P
+X COM_1 3 0 -200 200 R 50 50 0 0 P
+X NO_1 4 0 -300 200 R 50 50 0 0 P
+X NO_2 5 1300 -300 200 L 50 50 0 0 P
+X COM_2 6 1300 -200 200 L 50 50 0 0 P
+X NC_2 7 1300 -100 200 L 50 50 0 0 P
+X COIL_2 8 1300 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
