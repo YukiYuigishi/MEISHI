@@ -2839,7 +2839,7 @@
     (property "Value" "Motor1" (id 1) (at 209.804 153.4159 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical" (id 2) (at 207.518 150.876 0)
+    (property "Footprint" "Connector_JST:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical" (id 2) (at 207.518 150.876 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 207.518 150.876 0)
@@ -3220,7 +3220,7 @@
     (property "Value" "Motor0" (id 1) (at 209.804 144.2719 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical" (id 2) (at 207.518 141.732 0)
+    (property "Footprint" "Connector_JST:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical" (id 2) (at 207.518 141.732 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 207.518 141.732 0)
@@ -4180,10 +4180,10 @@
       (reference "J9") (unit 1) (value "Motor Power") (footprint "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical")
     )
     (path "/69b192a7-07ce-41c4-aecc-def9ea6cfe05"
-      (reference "J10") (unit 1) (value "Motor0") (footprint "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical")
+      (reference "J10") (unit 1) (value "Motor0") (footprint "Connector_JST:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical")
     )
     (path "/3731bcf0-c6cc-4b6e-b21e-15049107b33f"
-      (reference "J11") (unit 1) (value "Motor1") (footprint "Connector_JST:JST_VH_B2P-VH_1x02_P3.96mm_Vertical")
+      (reference "J11") (unit 1) (value "Motor1") (footprint "Connector_JST:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical")
     )
     (path "/e14349e4-a419-4f53-a4c3-d5fab413fc98"
       (reference "K1") (unit 1) (value "942H-2C-5DS") (footprint "Project:942H2C5DS")
