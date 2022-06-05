@@ -1,0 +1,5 @@
+MEISHI-backups
+fp-info-cache
+*.kicad_prl
+*.cmp
+gerber
