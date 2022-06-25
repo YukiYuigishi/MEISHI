@@ -7,7 +7,7 @@
 
 ## 回路図
 ![schema](https://user-images.githubusercontent.com/64316110/175349371-24d166ac-e4e9-4cea-ad8f-36dcb3871eca.png)
-![pcb](https://user-images.githubusercontent.com/64316110/175352096-fd380c30-9ea0-4956-81cd-58b535027415.png)
+![pcb](https://user-images.githubusercontent.com/64316110/175752031-f597d2e9-a92b-4049-9ad6-1beba127cbdf.png)
 
 ## 書き込み方法
 QRコードを右下において、一番右下にある 5V G RX0 TX0のピンが書き込み用ピンです。
